@@ -1,0 +1,239 @@
+{
+  "": {
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/master.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Controllers/Controller.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Controllers/Controller.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Controllers/Controller.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Controllers/Controller~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Controllers/Controller.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Extensions/ConcurrentDictionary.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/ConcurrentDictionary.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/ConcurrentDictionary.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/ConcurrentDictionary~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/ConcurrentDictionary.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Extensions/GCDConcurrentDictionary.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/GCDConcurrentDictionary.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/GCDConcurrentDictionary.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/GCDConcurrentDictionary~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/GCDConcurrentDictionary.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Extensions/MutableCollectionExtension.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/MutableCollectionExtension.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/MutableCollectionExtension.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/MutableCollectionExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/MutableCollectionExtension.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Extensions/RWLock.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/RWLock.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/RWLock.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/RWLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Extensions/RWLock.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Interface/Interface.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Interface/Interface.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Interface/Interface.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Interface/Interface~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Interface/Interface.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Constants.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Constants.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Constants.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Constants.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Enums/Color.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Color.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Color.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Color~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Color.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Enums/EligibleForPromotion.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/EligibleForPromotion.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/EligibleForPromotion.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/EligibleForPromotion~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/EligibleForPromotion.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Enums/Indices.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Indices.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Indices.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Indices~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Indices.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Enums/MovementDirection.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementDirection.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementDirection.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementDirection~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementDirection.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Enums/MovementStrategy.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementStrategy.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementStrategy.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementStrategy~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementStrategy.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Enums/MovementType.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementType.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementType.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementType~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/MovementType.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Enums/Piece.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Piece.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Piece.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Piece~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/Piece.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Enums/PieceTuple.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/PieceTuple.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/PieceTuple.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/PieceTuple~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Enums/PieceTuple.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Constants/Errors.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Errors.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Errors.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Errors~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Constants/Errors.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Factories/PieceFactory.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Factories/PieceFactory.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Factories/PieceFactory.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Factories/PieceFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Factories/PieceFactory.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/AIHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/AIHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/AIHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/AIHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/AIHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/BestMoveHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/BestMoveHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/BestMoveHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/BestMoveHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/BestMoveHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/BoardHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/BoardHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/BoardHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/BoardHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/BoardHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/EvaluationValueHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/EvaluationValueHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/EvaluationValueHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/EvaluationValueHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/EvaluationValueHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/GameHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/GameHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/GameHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/GameHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/GameHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/LegalMovesHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/LegalMovesHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/LegalMovesHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/LegalMovesHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/LegalMovesHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/MoveGenerationHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MoveGenerationHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MoveGenerationHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MoveGenerationHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MoveGenerationHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/MovementHandlers/MovementDirectionHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementDirectionHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementDirectionHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementDirectionHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementDirectionHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/MovementHandlers/MovementStrategyHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementStrategyHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementStrategyHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementStrategyHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementStrategyHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/MovementHandlers/MovementTypeHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementTypeHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementTypeHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementTypeHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/MovementHandlers/MovementTypeHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/Handlers/PiecesHandler.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/PiecesHandler.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/PiecesHandler.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/PiecesHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/Handlers/PiecesHandler.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/States/AdvancementState.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/AdvancementState.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/AdvancementState.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/AdvancementState~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/AdvancementState.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/States/BoardState.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/BoardState.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/BoardState.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/BoardState~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/BoardState.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/States/GameState.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/GameState.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/GameState.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/GameState~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/GameState.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/States/HashableStates/PairState.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/PairState.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/PairState.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/PairState~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/PairState.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/States/HashableStates/QuadrupletState.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/QuadrupletState.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/QuadrupletState.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/QuadrupletState~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/QuadrupletState.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/States/HashableStates/TripletState.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/TripletState.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/TripletState.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/TripletState~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/HashableStates/TripletState.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/States/MoveState.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/MoveState.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/MoveState.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/MoveState~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/MoveState.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/States/PlayerState.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/PlayerState.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/PlayerState.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/PlayerState~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/PlayerState.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Models/States/SquareState.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/SquareState.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/SquareState.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/SquareState~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Models/States/SquareState.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/Views/CLIView.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Views/CLIView.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Views/CLIView.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Views/CLIView~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/Views/CLIView.swiftdeps"
+  },
+  "/Users/adnanzahid/Documents/Projects/ServerSideChess/Sources/ServerSideChess/main.swift": {
+    "dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/main.d",
+    "object": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/main.swift.o",
+    "swiftmodule": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/adnanzahid/Documents/Projects/ServerSideChess/.build/x86_64-apple-macosx/debug/ServerSideChess.build/main.swiftdeps"
+  }
+}
