@@ -1,0 +1,88 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MovementStrategy"
+provides-nominal:
+- "15ServerSideChess16MovementStrategyO"
+provides-member:
+- ["15ServerSideChess16MovementStrategyO", ""]
+depends-top-level:
+- "=="
+- "AdvancementState"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "MovementStrategy"
+- "RawRepresentable"
+depends-member:
+- ["15ServerSideChess16AdvancementStateV", "deinit"]
+- !private ["15ServerSideChess16AdvancementStateV", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- ["SQ", "=="]
+- !private ["SQ", "AdvancementState"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "diagonal"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "lShaped"]
+- ["SQ", "rawValue"]
+- ["SQ", "straight"]
+- ["SH", "=="]
+- !private ["SH", "AdvancementState"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- ["SH", "diagonal"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "lShaped"]
+- ["SH", "rawValue"]
+- ["SH", "straight"]
+- ["15ServerSideChess16MovementStrategyO", "=="]
+- ["15ServerSideChess16MovementStrategyO", "AdvancementState"]
+- ["15ServerSideChess16MovementStrategyO", "RawValue"]
+- ["15ServerSideChess16MovementStrategyO", "_Default_RawValue"]
+- ["15ServerSideChess16MovementStrategyO", "_rawHashValue"]
+- ["15ServerSideChess16MovementStrategyO", "deinit"]
+- ["15ServerSideChess16MovementStrategyO", "diagonal"]
+- ["15ServerSideChess16MovementStrategyO", "hash"]
+- ["15ServerSideChess16MovementStrategyO", "hashValue"]
+- ["15ServerSideChess16MovementStrategyO", "init"]
+- ["15ServerSideChess16MovementStrategyO", "lShaped"]
+- ["15ServerSideChess16MovementStrategyO", "rawValue"]
+- ["15ServerSideChess16MovementStrategyO", "straight"]
+- ["SY", "=="]
+- !private ["SY", "AdvancementState"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- ["SY", "diagonal"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "lShaped"]
+- ["SY", "rawValue"]
+- ["SY", "straight"]
+depends-nominal:
+- "15ServerSideChess16AdvancementStateV"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "SH"
+- "15ServerSideChess16MovementStrategyO"
+- "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "714ed01c7617846bd4befe9a56ae15fc"

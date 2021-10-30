@@ -1,0 +1,67 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MovementDirection"
+provides-nominal:
+- "15ServerSideChess17MovementDirectionO"
+provides-member:
+- ["15ServerSideChess17MovementDirectionO", ""]
+depends-top-level:
+- "=="
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "MovementDirection"
+- !private "~="
+depends-member:
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "rawValue"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "rawValue"]
+- ["15ServerSideChess17MovementDirectionO", "=="]
+- ["15ServerSideChess17MovementDirectionO", "RawValue"]
+- ["15ServerSideChess17MovementDirectionO", "_Default_RawValue"]
+- ["15ServerSideChess17MovementDirectionO", "_rawHashValue"]
+- ["15ServerSideChess17MovementDirectionO", "any"]
+- ["15ServerSideChess17MovementDirectionO", "deinit"]
+- ["15ServerSideChess17MovementDirectionO", "forward"]
+- ["15ServerSideChess17MovementDirectionO", "hash"]
+- ["15ServerSideChess17MovementDirectionO", "hashValue"]
+- ["15ServerSideChess17MovementDirectionO", "init"]
+- ["15ServerSideChess17MovementDirectionO", "rawValue"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+depends-nominal:
+- "SQ"
+- "SH"
+- "15ServerSideChess17MovementDirectionO"
+- "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "5a20cc0b8925c28978bc2fe8a3f9b962"

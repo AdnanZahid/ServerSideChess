@@ -1,0 +1,41 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AIHandler"
+provides-nominal:
+- "15ServerSideChess9AIHandlerC"
+provides-member:
+- ["15ServerSideChess9AIHandlerC", ""]
+depends-top-level:
+- "AIHandler"
+- !private "BestMoveHandler"
+- "GameState"
+- "InputHandler"
+- "InputHandlerDelegate"
+depends-member:
+- !private ["15ServerSideChess9AIHandlerC", "BestMoveHandler"]
+- ["15ServerSideChess9AIHandlerC", "GameState"]
+- ["15ServerSideChess9AIHandlerC", "InputHandlerDelegate"]
+- ["15ServerSideChess9AIHandlerC", "deinit"]
+- ["15ServerSideChess9AIHandlerC", "init"]
+- ["15ServerSideChess9AIHandlerC", "input"]
+- ["15ServerSideChess9AIHandlerC", "inputHandlerDelegate"]
+- !private ["15ServerSideChess15BestMoveHandlerC", "bestMove"]
+- !private ["15ServerSideChess12InputHandlerP", "BestMoveHandler"]
+- ["15ServerSideChess12InputHandlerP", ""]
+- ["15ServerSideChess12InputHandlerP", "input"]
+- ["15ServerSideChess12InputHandlerP", "inputHandlerDelegate"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "didTakeInput"]
+depends-nominal:
+- "15ServerSideChess9AIHandlerC"
+- !private "15ServerSideChess15BestMoveHandlerC"
+- "15ServerSideChess12InputHandlerP"
+- !private "15ServerSideChess20InputHandlerDelegateP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "f201dafacc1ab7952fac8f1d8e07df70"

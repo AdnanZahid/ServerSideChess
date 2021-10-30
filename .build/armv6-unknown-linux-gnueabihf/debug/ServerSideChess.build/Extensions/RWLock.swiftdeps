@@ -1,0 +1,42 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RWLock"
+provides-nominal:
+- "15ServerSideChess6RWLockC"
+provides-member:
+- ["15ServerSideChess6RWLockC", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "RWLock"
+- !private "pthread_rwlock_destroy"
+- !private "pthread_rwlock_init"
+- !private "pthread_rwlock_rdlock"
+- "pthread_rwlock_t"
+- !private "pthread_rwlock_unlock"
+- !private "pthread_rwlock_wrlock"
+depends-member:
+- ["15ServerSideChess6RWLockC", "deinit"]
+- ["15ServerSideChess6RWLockC", "init"]
+- !private ["15ServerSideChess6RWLockC", "lock"]
+- !private ["15ServerSideChess6RWLockC", "pthread_rwlock_destroy"]
+- !private ["15ServerSideChess6RWLockC", "pthread_rwlock_init"]
+- !private ["15ServerSideChess6RWLockC", "pthread_rwlock_rdlock"]
+- ["15ServerSideChess6RWLockC", "pthread_rwlock_t"]
+- !private ["15ServerSideChess6RWLockC", "pthread_rwlock_unlock"]
+- !private ["15ServerSideChess6RWLockC", "pthread_rwlock_wrlock"]
+- ["15ServerSideChess6RWLockC", "readLock"]
+- ["15ServerSideChess6RWLockC", "unlock"]
+- ["15ServerSideChess6RWLockC", "writeLock"]
+- !private ["So16pthread_rwlock_ta", "init"]
+depends-nominal:
+- "15ServerSideChess6RWLockC"
+- !private "So16pthread_rwlock_ta"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "71e05e7db28b514c1ce33b24fcae28bd"

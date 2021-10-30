@@ -1,0 +1,129 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Constants"
+provides-nominal:
+- "15ServerSideChess9ConstantsO"
+- "15ServerSideChess9ConstantsO6ValuesO"
+- "15ServerSideChess9ConstantsO0C18BoardConfigurationO"
+provides-member:
+- ["15ServerSideChess9ConstantsO", ""]
+- ["15ServerSideChess9ConstantsO6ValuesO", ""]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", ""]
+depends-top-level:
+- "Constants"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+depends-member:
+- ["Sa", "reversed"]
+- ["SK", "reversed"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "B"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "ConfigurationType"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "Int"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "K"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "N"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "P"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "Q"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "R"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "b"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "empty"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "k"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "n"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "p"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "q"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "r"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "standard"]
+- ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "x"]
+- ["Sl", "reversed"]
+- ["15ServerSideChess9ConstantsO", "B"]
+- ["15ServerSideChess9ConstantsO", "ChessBoardConfiguration"]
+- ["15ServerSideChess9ConstantsO", "Constants"]
+- ["15ServerSideChess9ConstantsO", "Int"]
+- ["15ServerSideChess9ConstantsO", "K"]
+- ["15ServerSideChess9ConstantsO", "N"]
+- ["15ServerSideChess9ConstantsO", "P"]
+- ["15ServerSideChess9ConstantsO", "Q"]
+- ["15ServerSideChess9ConstantsO", "R"]
+- ["15ServerSideChess9ConstantsO", "Values"]
+- ["15ServerSideChess9ConstantsO", "b"]
+- ["15ServerSideChess9ConstantsO", "files"]
+- ["15ServerSideChess9ConstantsO", "k"]
+- ["15ServerSideChess9ConstantsO", "n"]
+- ["15ServerSideChess9ConstantsO", "p"]
+- ["15ServerSideChess9ConstantsO", "q"]
+- ["15ServerSideChess9ConstantsO", "r"]
+- ["15ServerSideChess9ConstantsO", "ranks"]
+- ["15ServerSideChess9ConstantsO", "x"]
+- ["10Foundation15ContiguousBytesP", "reversed"]
+- ["s28CustomDebugStringConvertibleP", "reversed"]
+- ["s17CustomReflectableP", "reversed"]
+- ["s23CustomStringConvertibleP", "reversed"]
+- ["10Foundation12DataProtocolP", "reversed"]
+- ["Se", "reversed"]
+- ["SE", "reversed"]
+- ["SQ", "reversed"]
+- ["s25ExpressibleByArrayLiteralP", "reversed"]
+- ["SH", "reversed"]
+- ["SM", "reversed"]
+- ["10Foundation19MutableDataProtocolP", "reversed"]
+- ["Sk", "reversed"]
+- ["Sm", "reversed"]
+- ["ST", "reversed"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackBishop"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackKing"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackKnight"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackPawn"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackQueen"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackRook"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "empty"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteBishop"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteKing"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteKnight"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whitePawn"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteQueen"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteRook"]
+- ["s14_ArrayProtocolP", "reversed"]
+- ["10Foundation13_CFBridgeableP", "reversed"]
+- ["s24_DestructorSafeContainerP", "reversed"]
+- ["s19_HasContiguousBytesP", "reversed"]
+- ["s35_HasCustomAnyHashableRepresentationP", "reversed"]
+- ["10Foundation13_NSBridgeableP", "reversed"]
+- ["s21_ObjectiveCBridgeableP", "reversed"]
+depends-nominal:
+- "Sa"
+- "SK"
+- "15ServerSideChess9ConstantsO0C18BoardConfigurationO"
+- "Sl"
+- "15ServerSideChess9ConstantsO"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "SH"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- "Sk"
+- "Sm"
+- "ST"
+- "15ServerSideChess9ConstantsO6ValuesO"
+- "s14_ArrayProtocolP"
+- "10Foundation13_CFBridgeableP"
+- "s24_DestructorSafeContainerP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation13_NSBridgeableP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "1ac513c89d2e177eca94baf0aa8d9942"

@@ -1,0 +1,195 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GCDConcurrentDictionary"
+provides-nominal:
+- "15ServerSideChess23GCDConcurrentDictionaryC"
+provides-member:
+- ["15ServerSideChess23GCDConcurrentDictionaryC", ""]
+depends-top-level:
+- !private "!="
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "DispatchQueue"
+- "GCDConcurrentDictionary"
+- "Hashable"
+- "StringLiteralType"
+depends-member:
+- !private ["Sa", "init"]
+- ["8Dispatch0A5QueueC10AttributesV", "concurrent"]
+- !private ["SK", "init"]
+- !private ["Sl", "index"]
+- !private ["Sl", "init"]
+- !private ["Sl", "keys"]
+- !private ["Sl", "remove"]
+- !private ["Sl", "subscript"]
+- !private ["Sl", "values"]
+- !private ["10Foundation15ContiguousBytesP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "keys"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "values"]
+- !private ["s17CustomReflectableP", "index"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "keys"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "values"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "keys"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "values"]
+- !private ["10Foundation12DataProtocolP", "init"]
+- !private ["Se", "index"]
+- !private ["Se", "init"]
+- !private ["Se", "keys"]
+- !private ["Se", "remove"]
+- !private ["Se", "subscript"]
+- !private ["Se", "values"]
+- !private ["SD", "index"]
+- !private ["SD", "keys"]
+- !private ["SD", "remove"]
+- !private ["SD", "subscript"]
+- !private ["SD", "values"]
+- !private ["8Dispatch0A6ObjectC", "sync"]
+- ["8Dispatch0A3QoSV", "default"]
+- ["8Dispatch0A5QueueC", "init"]
+- !private ["8Dispatch0A5QueueC", "sync"]
+- !private ["8Dispatch0A13WorkItemFlagsV", "barrier"]
+- !private ["SE", "index"]
+- !private ["SE", "init"]
+- !private ["SE", "keys"]
+- !private ["SE", "remove"]
+- !private ["SE", "subscript"]
+- !private ["SE", "values"]
+- !private ["SQ", "barrier"]
+- ["SQ", "concurrent"]
+- ["SQ", "default"]
+- !private ["SQ", "index"]
+- !private ["SQ", "init"]
+- !private ["SQ", "keys"]
+- !private ["SQ", "remove"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "values"]
+- !private ["s25ExpressibleByArrayLiteralP", "barrier"]
+- ["s25ExpressibleByArrayLiteralP", "concurrent"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "index"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "keys"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "remove"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "values"]
+- !private ["15ServerSideChess23GCDConcurrentDictionaryC", "Array"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "Bool"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "DispatchQueue"]
+- !private ["15ServerSideChess23GCDConcurrentDictionaryC", "_remove"]
+- !private ["15ServerSideChess23GCDConcurrentDictionaryC", "_set"]
+- !private ["15ServerSideChess23GCDConcurrentDictionaryC", "container"]
+- !private ["15ServerSideChess23GCDConcurrentDictionaryC", "containerAccessQueue"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "contains"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "init"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "keys"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "remove"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "set"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "subscript"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "value"]
+- ["15ServerSideChess23GCDConcurrentDictionaryC", "values"]
+- !private ["SH", "index"]
+- !private ["SH", "init"]
+- !private ["SH", "keys"]
+- !private ["SH", "remove"]
+- !private ["SH", "subscript"]
+- !private ["SH", "values"]
+- !private ["SM", "init"]
+- !private ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["s9OptionSetP", "barrier"]
+- ["s9OptionSetP", "concurrent"]
+- !private ["Sk", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "barrier"]
+- ["SY", "concurrent"]
+- !private ["ST", "index"]
+- !private ["ST", "init"]
+- !private ["ST", "keys"]
+- !private ["ST", "remove"]
+- !private ["ST", "subscript"]
+- !private ["ST", "values"]
+- !private ["s10SetAlgebraP", "barrier"]
+- ["s10SetAlgebraP", "concurrent"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "index"]
+- !private ["10Foundation13_CFBridgeableP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "keys"]
+- !private ["10Foundation13_CFBridgeableP", "remove"]
+- !private ["10Foundation13_CFBridgeableP", "subscript"]
+- !private ["10Foundation13_CFBridgeableP", "values"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "index"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "keys"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "values"]
+- !private ["10Foundation13_NSBridgeableP", "index"]
+- !private ["10Foundation13_NSBridgeableP", "init"]
+- !private ["10Foundation13_NSBridgeableP", "keys"]
+- !private ["10Foundation13_NSBridgeableP", "remove"]
+- !private ["10Foundation13_NSBridgeableP", "subscript"]
+- !private ["10Foundation13_NSBridgeableP", "values"]
+- !private ["s21_ObjectiveCBridgeableP", "index"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "keys"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "values"]
+depends-nominal:
+- !private "Sa"
+- "8Dispatch0A5QueueC10AttributesV"
+- !private "SK"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SD"
+- !private "8Dispatch0A6ObjectC"
+- "8Dispatch0A3QoSV"
+- "8Dispatch0A5QueueC"
+- !private "8Dispatch0A13WorkItemFlagsV"
+- !private "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "15ServerSideChess23GCDConcurrentDictionaryC"
+- !private "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "s9OptionSetP"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- !private "ST"
+- "s10SetAlgebraP"
+- !private "s14_ArrayProtocolP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "829454703759df3582e7de6dd8b4329f"

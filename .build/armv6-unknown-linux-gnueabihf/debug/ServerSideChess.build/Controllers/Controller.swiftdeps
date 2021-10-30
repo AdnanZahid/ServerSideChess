@@ -1,0 +1,142 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Controller"
+provides-nominal:
+- "15ServerSideChess10ControllerC"
+provides-member:
+- ["15ServerSideChess10ControllerC", ""]
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "AIHandler"
+- "AssignmentPrecedence"
+- !private "BoardHandler"
+- !private "BooleanLiteralType"
+- !private "Constants"
+- "Controller"
+- "DispatchQueue"
+- !private "GameHandler"
+- "GameState"
+- "InputHandler"
+- "InputHandlerDelegate"
+- !private "MoveGenerationHandler"
+- "MoveState"
+- "OutputHandler"
+- !private "PlayerState"
+- "SquareState"
+- "TernaryPrecedence"
+depends-member:
+- !private ["15ServerSideChess9AIHandlerC", "deinit"]
+- !private ["15ServerSideChess9AIHandlerC", "init"]
+- !private ["15ServerSideChess12BoardHandlerC", "setup"]
+- !private ["15ServerSideChess9ConstantsO0C18BoardConfigurationO", "standard"]
+- !private ["15ServerSideChess5ColorO", "black"]
+- !private ["15ServerSideChess5ColorO", "white"]
+- !private ["15ServerSideChess9ConstantsO", "ChessBoardConfiguration"]
+- !private ["15ServerSideChess10ControllerC", "AIHandler"]
+- !private ["15ServerSideChess10ControllerC", "BoardHandler"]
+- !private ["15ServerSideChess10ControllerC", "Constants"]
+- ["15ServerSideChess10ControllerC", "DispatchQueue"]
+- !private ["15ServerSideChess10ControllerC", "GameHandler"]
+- ["15ServerSideChess10ControllerC", "GameState"]
+- ["15ServerSideChess10ControllerC", "InputHandler"]
+- !private ["15ServerSideChess10ControllerC", "MoveGenerationHandler"]
+- ["15ServerSideChess10ControllerC", "MoveState"]
+- ["15ServerSideChess10ControllerC", "OutputHandler"]
+- !private ["15ServerSideChess10ControllerC", "PlayerState"]
+- ["15ServerSideChess10ControllerC", "SquareState"]
+- ["15ServerSideChess10ControllerC", "deinit"]
+- ["15ServerSideChess10ControllerC", "didTakeInput"]
+- ["15ServerSideChess10ControllerC", "gameState"]
+- ["15ServerSideChess10ControllerC", "getMoves"]
+- ["15ServerSideChess10ControllerC", "init"]
+- ["15ServerSideChess10ControllerC", "inputHandler"]
+- ["15ServerSideChess10ControllerC", "outputHandler"]
+- !private ["15ServerSideChess10ControllerC", "runEngine"]
+- !private ["15ServerSideChess10ControllerC", "selectQueueAndRun"]
+- !private ["8Dispatch0A6ObjectC", "async"]
+- !private ["8Dispatch0A6ObjectC", "global"]
+- !private ["8Dispatch0A6ObjectC", "main"]
+- !private ["8Dispatch0A5QueueC", "async"]
+- !private ["8Dispatch0A5QueueC", "global"]
+- !private ["8Dispatch0A5QueueC", "main"]
+- !private ["SQ", "black"]
+- !private ["SQ", "boardState"]
+- !private ["SQ", "currentPlayer"]
+- !private ["SQ", "default"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isAI"]
+- !private ["SQ", "white"]
+- !private ["15ServerSideChess11GameHandlerC", "move"]
+- !private ["15ServerSideChess9GameStateV", "boardState"]
+- !private ["15ServerSideChess9GameStateV", "currentPlayer"]
+- !private ["15ServerSideChess9GameStateV", "deinit"]
+- !private ["15ServerSideChess9GameStateV", "init"]
+- !private ["SH", "black"]
+- !private ["SH", "boardState"]
+- !private ["SH", "currentPlayer"]
+- !private ["SH", "default"]
+- !private ["SH", "init"]
+- !private ["SH", "isAI"]
+- !private ["SH", "white"]
+- !private ["15ServerSideChess12InputHandlerP", "cancelMove"]
+- !private ["15ServerSideChess12InputHandlerP", "init"]
+- !private ["15ServerSideChess12InputHandlerP", "input"]
+- !private ["15ServerSideChess12InputHandlerP", "inputHandlerDelegate"]
+- !private ["15ServerSideChess12InputHandlerP", "isGUIViewAvailable"]
+- !private ["15ServerSideChess12InputHandlerP", "output"]
+- !private ["15ServerSideChess12InputHandlerP", "setup"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "AIHandler"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "BoardHandler"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "Constants"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "GameHandler"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "GameState"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "MoveGenerationHandler"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "PlayerState"]
+- ["15ServerSideChess20InputHandlerDelegateP", ""]
+- ["15ServerSideChess20InputHandlerDelegateP", "didTakeInput"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "gameState"]
+- ["15ServerSideChess20InputHandlerDelegateP", "getMoves"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "inputHandler"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "outputHandler"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "runEngine"]
+- !private ["15ServerSideChess20InputHandlerDelegateP", "selectQueueAndRun"]
+- !private ["15ServerSideChess21MoveGenerationHandlerC", "getMoves"]
+- !private ["15ServerSideChess13OutputHandlerP", "cancelMove"]
+- !private ["15ServerSideChess13OutputHandlerP", "isGUIViewAvailable"]
+- !private ["15ServerSideChess13OutputHandlerP", "output"]
+- !private ["15ServerSideChess13OutputHandlerP", "setup"]
+- !private ["15ServerSideChess11PlayerStateV", "init"]
+- !private ["15ServerSideChess11PlayerStateV", "isAI"]
+- !private ["8Dispatch0A3QoSV0B6SClassO", "default"]
+- !private ["SY", "black"]
+- !private ["SY", "white"]
+depends-nominal:
+- !private "15ServerSideChess9AIHandlerC"
+- !private "15ServerSideChess12BoardHandlerC"
+- !private "15ServerSideChess9ConstantsO0C18BoardConfigurationO"
+- !private "15ServerSideChess5ColorO"
+- !private "15ServerSideChess9ConstantsO"
+- "15ServerSideChess10ControllerC"
+- !private "8Dispatch0A6ObjectC"
+- !private "8Dispatch0A5QueueC"
+- !private "SQ"
+- !private "15ServerSideChess11GameHandlerC"
+- !private "15ServerSideChess9GameStateV"
+- !private "SH"
+- !private "15ServerSideChess12InputHandlerP"
+- "15ServerSideChess20InputHandlerDelegateP"
+- !private "15ServerSideChess21MoveGenerationHandlerC"
+- !private "15ServerSideChess13OutputHandlerP"
+- !private "15ServerSideChess11PlayerStateV"
+- !private "8Dispatch0A3QoSV0B6SClassO"
+- !private "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "fee771a7d61b88a8e006b33a84001f5f"

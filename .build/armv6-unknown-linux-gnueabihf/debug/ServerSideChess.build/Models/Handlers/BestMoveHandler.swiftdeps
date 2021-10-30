@@ -1,0 +1,224 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BestMoveHandler"
+provides-nominal:
+- "15ServerSideChess15BestMoveHandlerC"
+provides-member:
+- ["15ServerSideChess15BestMoveHandlerC", ""]
+- ["15ServerSideChess15BestMoveHandlerC", "bestMove"]
+- ["15ServerSideChess15BestMoveHandlerC", "bestEvaluationValue"]
+depends-top-level:
+- !private "-"
+- !private "/"
+- !private "=="
+- !private ">"
+- !private ">="
+- "AssignmentPrecedence"
+- "BestMoveHandler"
+- !private "BoardHandler"
+- !private "DispatchQueue"
+- !private "EvaluationValueHandler"
+- "FloatLiteralType"
+- !private "GameHandler"
+- "GameState"
+- "Int"
+- "IntegerLiteralType"
+- !private "MoveGenerationHandler"
+- "MoveState"
+- !private "abs"
+- !private "min"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "max"]
+- !private ["s18AdditiveArithmeticP", "min"]
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["15ServerSideChess15BestMoveHandlerC", "BoardHandler"]
+- !private ["15ServerSideChess15BestMoveHandlerC", "Constants"]
+- !private ["15ServerSideChess15BestMoveHandlerC", "DispatchQueue"]
+- !private ["15ServerSideChess15BestMoveHandlerC", "EvaluationValueHandler"]
+- !private ["15ServerSideChess15BestMoveHandlerC", "GameHandler"]
+- ["15ServerSideChess15BestMoveHandlerC", "GameState"]
+- ["15ServerSideChess15BestMoveHandlerC", "Int"]
+- !private ["15ServerSideChess15BestMoveHandlerC", "MoveGenerationHandler"]
+- ["15ServerSideChess15BestMoveHandlerC", "MoveState"]
+- !private ["15ServerSideChess15BestMoveHandlerC", "abs"]
+- ["15ServerSideChess15BestMoveHandlerC", "bestEvaluationValue"]
+- ["15ServerSideChess15BestMoveHandlerC", "bestMove"]
+- ["15ServerSideChess15BestMoveHandlerC", "init"]
+- !private ["15ServerSideChess15BestMoveHandlerC", "min"]
+- !private ["SK", "count"]
+- !private ["SK", "subscript"]
+- !private ["Sz", "max"]
+- !private ["Sz", "min"]
+- !private ["15ServerSideChess12BoardHandlerC", "getPiece"]
+- !private ["s7CVarArgP", "max"]
+- !private ["s7CVarArgP", "min"]
+- !private ["Sl", "count"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "max"]
+- !private ["SL", "min"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "fromSquare"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "max"]
+- !private ["s17CustomReflectableP", "min"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "max"]
+- !private ["s23CustomStringConvertibleP", "min"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "count"]
+- !private ["Se", "max"]
+- !private ["Se", "min"]
+- !private ["Se", "subscript"]
+- !private ["8Dispatch0A6ObjectC", "concurrentPerform"]
+- !private ["8Dispatch0A5QueueC", "concurrentPerform"]
+- !private ["SE", "count"]
+- !private ["SE", "max"]
+- !private ["SE", "min"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "boardState"]
+- !private ["SQ", "count"]
+- !private ["SQ", "fromSquare"]
+- !private ["SQ", "max"]
+- !private ["SQ", "min"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "subscript"]
+- !private ["15ServerSideChess22EvaluationValueHandlerC", "getValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "max"]
+- !private ["s27ExpressibleByIntegerLiteralP", "min"]
+- !private ["s17FixedWidthIntegerP", "max"]
+- !private ["s17FixedWidthIntegerP", "min"]
+- !private ["15ServerSideChess11GameHandlerC", "move"]
+- !private ["15ServerSideChess9GameStateV", "boardState"]
+- !private ["SH", "boardState"]
+- !private ["SH", "count"]
+- !private ["SH", "fromSquare"]
+- !private ["SH", "max"]
+- !private ["SH", "min"]
+- !private ["SH", "rawValue"]
+- !private ["SH", "subscript"]
+- !private ["Si", "max"]
+- !private ["Si", "min"]
+- !private ["s25LosslessStringConvertibleP", "max"]
+- !private ["s25LosslessStringConvertibleP", "min"]
+- !private ["s10MirrorPathP", "max"]
+- !private ["s10MirrorPathP", "min"]
+- !private ["15ServerSideChess21MoveGenerationHandlerC", "getMoves"]
+- !private ["15ServerSideChess9MoveStateV", "fromSquare"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["Sj", "max"]
+- !private ["Sj", "min"]
+- !private ["15ServerSideChess5PieceO", "deinit"]
+- !private ["15ServerSideChess5PieceO", "rawValue"]
+- !private ["15ServerSideChess10PieceTupleV", "value"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "rawValue"]
+- !private ["s10SIMDScalarP", "max"]
+- !private ["s10SIMDScalarP", "min"]
+- !private ["ST", "count"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "max"]
+- !private ["SZ", "min"]
+- !private ["s13SignedNumericP", "max"]
+- !private ["s13SignedNumericP", "min"]
+- !private ["Sx", "max"]
+- !private ["Sx", "min"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["10Foundation13_CFBridgeableP", "count"]
+- !private ["10Foundation13_CFBridgeableP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "max"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "min"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "max"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "min"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "max"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "min"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation13_NSBridgeableP", "count"]
+- !private ["10Foundation13_NSBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "max"]
+- !private ["s21_ObjectiveCBridgeableP", "min"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- "15ServerSideChess15BestMoveHandlerC"
+- !private "SK"
+- !private "Sz"
+- !private "15ServerSideChess12BoardHandlerC"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "8Dispatch0A6ObjectC"
+- !private "8Dispatch0A5QueueC"
+- !private "SE"
+- !private "SQ"
+- !private "15ServerSideChess22EvaluationValueHandlerC"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "15ServerSideChess11GameHandlerC"
+- !private "15ServerSideChess9GameStateV"
+- !private "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "15ServerSideChess21MoveGenerationHandlerC"
+- !private "15ServerSideChess9MoveStateV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sj"
+- !private "15ServerSideChess5PieceO"
+- !private "15ServerSideChess10PieceTupleV"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s14_ArrayProtocolP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "ebf53b046e6ba6a2f3793af73b561ac4"

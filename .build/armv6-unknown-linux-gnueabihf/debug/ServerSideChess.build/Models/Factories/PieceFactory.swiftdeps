@@ -1,0 +1,188 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PieceFactory"
+provides-nominal:
+- "15ServerSideChess12PieceFactoryC"
+provides-member:
+- ["15ServerSideChess12PieceFactoryC", ""]
+depends-top-level:
+- !private "Constants"
+- "Int"
+- "Piece"
+- "PieceFactory"
+- !private "~="
+depends-member:
+- ["15ServerSideChess9ConstantsO", "Values"]
+- !private ["s28CustomDebugStringConvertibleP", "blackBishop"]
+- !private ["s28CustomDebugStringConvertibleP", "blackKing"]
+- !private ["s28CustomDebugStringConvertibleP", "blackKnight"]
+- !private ["s28CustomDebugStringConvertibleP", "blackPawn"]
+- !private ["s28CustomDebugStringConvertibleP", "blackQueen"]
+- !private ["s28CustomDebugStringConvertibleP", "blackRook"]
+- !private ["s28CustomDebugStringConvertibleP", "whiteBishop"]
+- !private ["s28CustomDebugStringConvertibleP", "whiteKing"]
+- !private ["s28CustomDebugStringConvertibleP", "whiteKnight"]
+- !private ["s28CustomDebugStringConvertibleP", "whitePawn"]
+- !private ["s28CustomDebugStringConvertibleP", "whiteQueen"]
+- !private ["s28CustomDebugStringConvertibleP", "whiteRook"]
+- !private ["s17CustomReflectableP", "blackBishop"]
+- !private ["s17CustomReflectableP", "blackKing"]
+- !private ["s17CustomReflectableP", "blackKnight"]
+- !private ["s17CustomReflectableP", "blackPawn"]
+- !private ["s17CustomReflectableP", "blackQueen"]
+- !private ["s17CustomReflectableP", "blackRook"]
+- !private ["s17CustomReflectableP", "whiteBishop"]
+- !private ["s17CustomReflectableP", "whiteKing"]
+- !private ["s17CustomReflectableP", "whiteKnight"]
+- !private ["s17CustomReflectableP", "whitePawn"]
+- !private ["s17CustomReflectableP", "whiteQueen"]
+- !private ["s17CustomReflectableP", "whiteRook"]
+- !private ["Se", "blackBishop"]
+- !private ["Se", "blackKing"]
+- !private ["Se", "blackKnight"]
+- !private ["Se", "blackPawn"]
+- !private ["Se", "blackQueen"]
+- !private ["Se", "blackRook"]
+- !private ["Se", "whiteBishop"]
+- !private ["Se", "whiteKing"]
+- !private ["Se", "whiteKnight"]
+- !private ["Se", "whitePawn"]
+- !private ["Se", "whiteQueen"]
+- !private ["Se", "whiteRook"]
+- !private ["SE", "blackBishop"]
+- !private ["SE", "blackKing"]
+- !private ["SE", "blackKnight"]
+- !private ["SE", "blackPawn"]
+- !private ["SE", "blackQueen"]
+- !private ["SE", "blackRook"]
+- !private ["SE", "whiteBishop"]
+- !private ["SE", "whiteKing"]
+- !private ["SE", "whiteKnight"]
+- !private ["SE", "whitePawn"]
+- !private ["SE", "whiteQueen"]
+- !private ["SE", "whiteRook"]
+- !private ["SQ", "blackBishop"]
+- !private ["SQ", "blackKing"]
+- !private ["SQ", "blackKnight"]
+- !private ["SQ", "blackPawn"]
+- !private ["SQ", "blackQueen"]
+- !private ["SQ", "blackRook"]
+- !private ["SQ", "whiteBishop"]
+- !private ["SQ", "whiteKing"]
+- !private ["SQ", "whiteKnight"]
+- !private ["SQ", "whitePawn"]
+- !private ["SQ", "whiteQueen"]
+- !private ["SQ", "whiteRook"]
+- !private ["s23ExpressibleByNilLiteralP", "blackBishop"]
+- !private ["s23ExpressibleByNilLiteralP", "blackKing"]
+- !private ["s23ExpressibleByNilLiteralP", "blackKnight"]
+- !private ["s23ExpressibleByNilLiteralP", "blackPawn"]
+- !private ["s23ExpressibleByNilLiteralP", "blackQueen"]
+- !private ["s23ExpressibleByNilLiteralP", "blackRook"]
+- !private ["s23ExpressibleByNilLiteralP", "whiteBishop"]
+- !private ["s23ExpressibleByNilLiteralP", "whiteKing"]
+- !private ["s23ExpressibleByNilLiteralP", "whiteKnight"]
+- !private ["s23ExpressibleByNilLiteralP", "whitePawn"]
+- !private ["s23ExpressibleByNilLiteralP", "whiteQueen"]
+- !private ["s23ExpressibleByNilLiteralP", "whiteRook"]
+- !private ["SH", "blackBishop"]
+- !private ["SH", "blackKing"]
+- !private ["SH", "blackKnight"]
+- !private ["SH", "blackPawn"]
+- !private ["SH", "blackQueen"]
+- !private ["SH", "blackRook"]
+- !private ["SH", "whiteBishop"]
+- !private ["SH", "whiteKing"]
+- !private ["SH", "whiteKnight"]
+- !private ["SH", "whitePawn"]
+- !private ["SH", "whiteQueen"]
+- !private ["SH", "whiteRook"]
+- !private ["Sq", "blackBishop"]
+- !private ["Sq", "blackKing"]
+- !private ["Sq", "blackKnight"]
+- !private ["Sq", "blackPawn"]
+- !private ["Sq", "blackQueen"]
+- !private ["Sq", "blackRook"]
+- !private ["Sq", "whiteBishop"]
+- !private ["Sq", "whiteKing"]
+- !private ["Sq", "whiteKnight"]
+- !private ["Sq", "whitePawn"]
+- !private ["Sq", "whiteQueen"]
+- !private ["Sq", "whiteRook"]
+- !private ["15ServerSideChess5PieceO", "blackBishop"]
+- !private ["15ServerSideChess5PieceO", "blackKing"]
+- !private ["15ServerSideChess5PieceO", "blackKnight"]
+- !private ["15ServerSideChess5PieceO", "blackPawn"]
+- !private ["15ServerSideChess5PieceO", "blackQueen"]
+- !private ["15ServerSideChess5PieceO", "blackRook"]
+- !private ["15ServerSideChess5PieceO", "whiteBishop"]
+- !private ["15ServerSideChess5PieceO", "whiteKing"]
+- !private ["15ServerSideChess5PieceO", "whiteKnight"]
+- !private ["15ServerSideChess5PieceO", "whitePawn"]
+- !private ["15ServerSideChess5PieceO", "whiteQueen"]
+- !private ["15ServerSideChess5PieceO", "whiteRook"]
+- !private ["15ServerSideChess12PieceFactoryC", "Constants"]
+- ["15ServerSideChess12PieceFactoryC", "Int"]
+- ["15ServerSideChess12PieceFactoryC", "Piece"]
+- ["15ServerSideChess12PieceFactoryC", "getPiece"]
+- ["15ServerSideChess12PieceFactoryC", "init"]
+- !private ["SY", "blackBishop"]
+- !private ["SY", "blackKing"]
+- !private ["SY", "blackKnight"]
+- !private ["SY", "blackPawn"]
+- !private ["SY", "blackQueen"]
+- !private ["SY", "blackRook"]
+- !private ["SY", "whiteBishop"]
+- !private ["SY", "whiteKing"]
+- !private ["SY", "whiteKnight"]
+- !private ["SY", "whitePawn"]
+- !private ["SY", "whiteQueen"]
+- !private ["SY", "whiteRook"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackBishop"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackKing"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackKnight"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackPawn"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackQueen"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackRook"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteBishop"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteKing"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteKnight"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whitePawn"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteQueen"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteRook"]
+- !private ["s12_UnwrappableP", "blackBishop"]
+- !private ["s12_UnwrappableP", "blackKing"]
+- !private ["s12_UnwrappableP", "blackKnight"]
+- !private ["s12_UnwrappableP", "blackPawn"]
+- !private ["s12_UnwrappableP", "blackQueen"]
+- !private ["s12_UnwrappableP", "blackRook"]
+- !private ["s12_UnwrappableP", "whiteBishop"]
+- !private ["s12_UnwrappableP", "whiteKing"]
+- !private ["s12_UnwrappableP", "whiteKnight"]
+- !private ["s12_UnwrappableP", "whitePawn"]
+- !private ["s12_UnwrappableP", "whiteQueen"]
+- !private ["s12_UnwrappableP", "whiteRook"]
+depends-nominal:
+- "15ServerSideChess9ConstantsO"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "SH"
+- !private "Sq"
+- !private "15ServerSideChess5PieceO"
+- "15ServerSideChess12PieceFactoryC"
+- !private "SY"
+- "15ServerSideChess9ConstantsO6ValuesO"
+- !private "s12_UnwrappableP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "dba1918164430c8af7f46df682e23c57"

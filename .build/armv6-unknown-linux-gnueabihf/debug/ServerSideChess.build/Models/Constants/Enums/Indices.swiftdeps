@@ -1,0 +1,117 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RankIndex"
+- "FileIndex"
+- "-"
+- "+"
+- "-"
+- "-"
+- "+"
+- "-"
+provides-nominal:
+- "15ServerSideChess9RankIndexO"
+- "15ServerSideChess9FileIndexO"
+provides-member:
+- ["15ServerSideChess9RankIndexO", ""]
+- ["15ServerSideChess9FileIndexO", ""]
+depends-top-level:
+- "+"
+- "-"
+- "=="
+- "FileIndex"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "RankIndex"
+- !private "~="
+depends-member:
+- ["SQ", "=="]
+- !private ["SQ", "FileIndex"]
+- !private ["SQ", "RankIndex"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "rawValue"]
+- ["15ServerSideChess9FileIndexO", "+"]
+- ["15ServerSideChess9FileIndexO", "-"]
+- ["15ServerSideChess9FileIndexO", "=="]
+- ["15ServerSideChess9FileIndexO", "FileIndex"]
+- ["15ServerSideChess9FileIndexO", "Int"]
+- ["15ServerSideChess9FileIndexO", "RawValue"]
+- ["15ServerSideChess9FileIndexO", "_A"]
+- ["15ServerSideChess9FileIndexO", "_B"]
+- ["15ServerSideChess9FileIndexO", "_C"]
+- ["15ServerSideChess9FileIndexO", "_D"]
+- ["15ServerSideChess9FileIndexO", "_Default_RawValue"]
+- ["15ServerSideChess9FileIndexO", "_E"]
+- ["15ServerSideChess9FileIndexO", "_F"]
+- ["15ServerSideChess9FileIndexO", "_G"]
+- ["15ServerSideChess9FileIndexO", "_H"]
+- ["15ServerSideChess9FileIndexO", "_rawHashValue"]
+- ["15ServerSideChess9FileIndexO", "deinit"]
+- ["15ServerSideChess9FileIndexO", "hash"]
+- ["15ServerSideChess9FileIndexO", "hashValue"]
+- ["15ServerSideChess9FileIndexO", "init"]
+- ["15ServerSideChess9FileIndexO", "rawValue"]
+- ["SH", "=="]
+- !private ["SH", "FileIndex"]
+- !private ["SH", "RankIndex"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "rawValue"]
+- ["15ServerSideChess9RankIndexO", "+"]
+- ["15ServerSideChess9RankIndexO", "-"]
+- ["15ServerSideChess9RankIndexO", "=="]
+- ["15ServerSideChess9RankIndexO", "Int"]
+- ["15ServerSideChess9RankIndexO", "RankIndex"]
+- ["15ServerSideChess9RankIndexO", "RawValue"]
+- ["15ServerSideChess9RankIndexO", "_1"]
+- ["15ServerSideChess9RankIndexO", "_2"]
+- ["15ServerSideChess9RankIndexO", "_3"]
+- ["15ServerSideChess9RankIndexO", "_4"]
+- ["15ServerSideChess9RankIndexO", "_5"]
+- ["15ServerSideChess9RankIndexO", "_6"]
+- ["15ServerSideChess9RankIndexO", "_7"]
+- ["15ServerSideChess9RankIndexO", "_8"]
+- ["15ServerSideChess9RankIndexO", "_Default_RawValue"]
+- ["15ServerSideChess9RankIndexO", "_rawHashValue"]
+- ["15ServerSideChess9RankIndexO", "deinit"]
+- ["15ServerSideChess9RankIndexO", "hash"]
+- ["15ServerSideChess9RankIndexO", "hashValue"]
+- ["15ServerSideChess9RankIndexO", "init"]
+- ["15ServerSideChess9RankIndexO", "rawValue"]
+- ["SY", "=="]
+- !private ["SY", "FileIndex"]
+- !private ["SY", "RankIndex"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+depends-nominal:
+- "SQ"
+- "15ServerSideChess9FileIndexO"
+- "SH"
+- "15ServerSideChess9RankIndexO"
+- "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "5d3781671d4d70a59799c6af10d43793"

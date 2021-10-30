@@ -1,0 +1,64 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ChessError"
+provides-nominal:
+- "15ServerSideChess0C5ErrorO"
+provides-member:
+- ["15ServerSideChess0C5ErrorO", ""]
+depends-top-level:
+- "=="
+- "ChessError"
+- "Error"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+depends-member:
+- ["15ServerSideChess0C5ErrorO", "=="]
+- ["15ServerSideChess0C5ErrorO", "__derived_enum_equals"]
+- ["15ServerSideChess0C5ErrorO", "_code"]
+- ["15ServerSideChess0C5ErrorO", "_domain"]
+- ["15ServerSideChess0C5ErrorO", "_rawHashValue"]
+- ["15ServerSideChess0C5ErrorO", "_userInfo"]
+- ["15ServerSideChess0C5ErrorO", "decodingError"]
+- ["15ServerSideChess0C5ErrorO", "deinit"]
+- ["15ServerSideChess0C5ErrorO", "hash"]
+- ["15ServerSideChess0C5ErrorO", "hashValue"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "_userInfo"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["s5ErrorP", "=="]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_rawHashValue"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- ["SH", "_rawHashValue"]
+- ["SH", "_userInfo"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["s6HasherV", "combine"]
+depends-nominal:
+- "15ServerSideChess0C5ErrorO"
+- "SQ"
+- "s5ErrorP"
+- "SH"
+- !private "s6HasherV"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "e36ce68ab4fb87a7e1a4026de0a96168"

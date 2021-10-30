@@ -1,0 +1,67 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Color"
+provides-nominal:
+- "15ServerSideChess5ColorO"
+provides-member:
+- ["15ServerSideChess5ColorO", ""]
+depends-top-level:
+- "=="
+- "Color"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- !private "~="
+depends-member:
+- ["15ServerSideChess5ColorO", "=="]
+- ["15ServerSideChess5ColorO", "RawValue"]
+- ["15ServerSideChess5ColorO", "_Default_RawValue"]
+- ["15ServerSideChess5ColorO", "_rawHashValue"]
+- ["15ServerSideChess5ColorO", "black"]
+- ["15ServerSideChess5ColorO", "deinit"]
+- ["15ServerSideChess5ColorO", "hash"]
+- ["15ServerSideChess5ColorO", "hashValue"]
+- ["15ServerSideChess5ColorO", "init"]
+- ["15ServerSideChess5ColorO", "rawValue"]
+- ["15ServerSideChess5ColorO", "white"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "rawValue"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "rawValue"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+depends-nominal:
+- "15ServerSideChess5ColorO"
+- "SQ"
+- "SH"
+- "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "5bfbca7d8e55e58d8ba4771700913785"

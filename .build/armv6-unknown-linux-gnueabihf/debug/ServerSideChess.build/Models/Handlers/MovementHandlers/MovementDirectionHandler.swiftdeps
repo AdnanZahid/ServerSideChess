@@ -1,0 +1,79 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MovementDirectionHandler"
+provides-nominal:
+- "15ServerSideChess24MovementDirectionHandlerC"
+provides-member:
+- ["15ServerSideChess24MovementDirectionHandlerC", ""]
+- ["15ServerSideChess24MovementDirectionHandlerC", "isValid"]
+depends-top-level:
+- !private "<"
+- !private ">"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Color"
+- "MoveState"
+- "MovementDirection"
+- "MovementDirectionHandler"
+depends-member:
+- ["15ServerSideChess5ColorO", "black"]
+- ["15ServerSideChess5ColorO", "white"]
+- !private ["s28CustomDebugStringConvertibleP", "fromSquare"]
+- !private ["s28CustomDebugStringConvertibleP", "rankIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "toSquare"]
+- ["SQ", "any"]
+- ["SQ", "black"]
+- ["SQ", "forward"]
+- !private ["SQ", "fromSquare"]
+- !private ["SQ", "rankIndex"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "toSquare"]
+- ["SQ", "white"]
+- ["SH", "any"]
+- ["SH", "black"]
+- ["SH", "forward"]
+- !private ["SH", "fromSquare"]
+- !private ["SH", "rankIndex"]
+- !private ["SH", "rawValue"]
+- !private ["SH", "toSquare"]
+- ["SH", "white"]
+- !private ["15ServerSideChess9MoveStateV", "fromSquare"]
+- !private ["15ServerSideChess9MoveStateV", "toSquare"]
+- ["15ServerSideChess17MovementDirectionO", "any"]
+- ["15ServerSideChess17MovementDirectionO", "forward"]
+- ["15ServerSideChess24MovementDirectionHandlerC", "Bool"]
+- ["15ServerSideChess24MovementDirectionHandlerC", "Color"]
+- ["15ServerSideChess24MovementDirectionHandlerC", "MoveState"]
+- ["15ServerSideChess24MovementDirectionHandlerC", "MovementDirection"]
+- ["15ServerSideChess24MovementDirectionHandlerC", "init"]
+- !private ["15ServerSideChess24MovementDirectionHandlerC", "isRankDecremented"]
+- !private ["15ServerSideChess24MovementDirectionHandlerC", "isRankIncremented"]
+- ["15ServerSideChess24MovementDirectionHandlerC", "isValid"]
+- !private ["15ServerSideChess9RankIndexO", "deinit"]
+- !private ["15ServerSideChess9RankIndexO", "rawValue"]
+- ["SY", "any"]
+- ["SY", "black"]
+- ["SY", "forward"]
+- !private ["SY", "rawValue"]
+- ["SY", "white"]
+- !private ["15ServerSideChess11SquareStateV", "rankIndex"]
+depends-nominal:
+- "15ServerSideChess5ColorO"
+- !private "s28CustomDebugStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "15ServerSideChess9MoveStateV"
+- "15ServerSideChess17MovementDirectionO"
+- "15ServerSideChess24MovementDirectionHandlerC"
+- !private "15ServerSideChess9RankIndexO"
+- "SY"
+- !private "15ServerSideChess11SquareStateV"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "a0f1ff4b664d336fbf629cf73d1fabf2"

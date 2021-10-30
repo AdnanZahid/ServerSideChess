@@ -1,0 +1,91 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MoveState"
+provides-nominal:
+- "15ServerSideChess9MoveStateV"
+provides-member:
+- ["15ServerSideChess9MoveStateV", ""]
+depends-top-level:
+- !private "*"
+- !private "+"
+- "=="
+- !private "BooleanLiteralType"
+- "CustomDebugStringConvertible"
+- "Equatable"
+- !private "FloatLiteralType"
+- "Hashable"
+- "Int"
+- !private "IntegerLiteralType"
+- "MoveState"
+- "SquareState"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "fromSquare"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "toSquare"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- !private ["SQ", "fromSquare"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "toSquare"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- !private ["SH", "fromSquare"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "toSquare"]
+- !private ["s6HasherV", "combine"]
+- ["15ServerSideChess9MoveStateV", "=="]
+- ["15ServerSideChess9MoveStateV", "Int"]
+- ["15ServerSideChess9MoveStateV", "SquareState"]
+- ["15ServerSideChess9MoveStateV", "String"]
+- ["15ServerSideChess9MoveStateV", "__derived_struct_equals"]
+- ["15ServerSideChess9MoveStateV", "_rawHashValue"]
+- ["15ServerSideChess9MoveStateV", "debugDescription"]
+- ["15ServerSideChess9MoveStateV", "deinit"]
+- ["15ServerSideChess9MoveStateV", "fromSquare"]
+- ["15ServerSideChess9MoveStateV", "hash"]
+- ["15ServerSideChess9MoveStateV", "hashValue"]
+- ["15ServerSideChess9MoveStateV", "init"]
+- ["15ServerSideChess9MoveStateV", "toSquare"]
+- ["15ServerSideChess11SquareStateV", "deinit"]
+- !private ["15ServerSideChess11SquareStateV", "hashValue"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+depends-nominal:
+- "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "s26DefaultStringInterpolationV"
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- "15ServerSideChess9MoveStateV"
+- "15ServerSideChess11SquareStateV"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "263371e2d3e53e6addca219fa3787438"

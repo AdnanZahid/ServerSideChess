@@ -1,0 +1,60 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InputHandlerDelegate"
+- "InputHandler"
+- "OutputHandler"
+provides-nominal:
+- "15ServerSideChess20InputHandlerDelegateP"
+- "15ServerSideChess12InputHandlerP"
+- "15ServerSideChess13OutputHandlerP"
+provides-member:
+- ["15ServerSideChess20InputHandlerDelegateP", ""]
+- ["15ServerSideChess12InputHandlerP", ""]
+- ["15ServerSideChess13OutputHandlerP", ""]
+depends-top-level:
+- "AnyObject"
+- "BoardState"
+- "Bool"
+- "GameState"
+- "InputHandler"
+- "InputHandlerDelegate"
+- "MoveState"
+- "OutputHandler"
+- "SquareState"
+depends-member:
+- ["15ServerSideChess12InputHandlerP", "BoardState"]
+- ["15ServerSideChess12InputHandlerP", "Bool"]
+- ["15ServerSideChess12InputHandlerP", "GameState"]
+- ["15ServerSideChess12InputHandlerP", "InputHandlerDelegate"]
+- ["15ServerSideChess12InputHandlerP", "MoveState"]
+- ["15ServerSideChess12InputHandlerP", ""]
+- ["15ServerSideChess12InputHandlerP", "cancelMove"]
+- ["15ServerSideChess12InputHandlerP", "input"]
+- ["15ServerSideChess12InputHandlerP", "inputHandlerDelegate"]
+- ["15ServerSideChess12InputHandlerP", "isGUIViewAvailable"]
+- ["15ServerSideChess12InputHandlerP", "output"]
+- ["15ServerSideChess12InputHandlerP", "setup"]
+- ["15ServerSideChess20InputHandlerDelegateP", "MoveState"]
+- ["15ServerSideChess20InputHandlerDelegateP", "SquareState"]
+- ["15ServerSideChess20InputHandlerDelegateP", "didTakeInput"]
+- ["15ServerSideChess20InputHandlerDelegateP", "getMoves"]
+- ["15ServerSideChess13OutputHandlerP", "BoardState"]
+- ["15ServerSideChess13OutputHandlerP", "Bool"]
+- ["15ServerSideChess13OutputHandlerP", "MoveState"]
+- ["15ServerSideChess13OutputHandlerP", "cancelMove"]
+- ["15ServerSideChess13OutputHandlerP", "isGUIViewAvailable"]
+- ["15ServerSideChess13OutputHandlerP", "output"]
+- ["15ServerSideChess13OutputHandlerP", "setup"]
+depends-nominal:
+- "15ServerSideChess12InputHandlerP"
+- "15ServerSideChess20InputHandlerDelegateP"
+- "15ServerSideChess13OutputHandlerP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "78ea6d8a893e2b7c24ce0300540fe101"

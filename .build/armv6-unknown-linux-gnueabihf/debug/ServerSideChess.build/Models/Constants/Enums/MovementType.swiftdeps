@@ -1,0 +1,60 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MovementType"
+provides-nominal:
+- "15ServerSideChess12MovementTypeO"
+provides-member:
+- ["15ServerSideChess12MovementTypeO", ""]
+depends-top-level:
+- "=="
+- !private "BooleanLiteralType"
+- "FileIndex"
+- "FloatLiteralType"
+- "Hashable"
+- "Int"
+- "IntegerLiteralType"
+- "MovementType"
+- "RankIndex"
+depends-member:
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["15ServerSideChess9FileIndexO", "deinit"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["s6HasherV", "combine"]
+- ["15ServerSideChess12MovementTypeO", "=="]
+- ["15ServerSideChess12MovementTypeO", "FileIndex"]
+- ["15ServerSideChess12MovementTypeO", "Int"]
+- ["15ServerSideChess12MovementTypeO", "RankIndex"]
+- ["15ServerSideChess12MovementTypeO", "__derived_enum_equals"]
+- ["15ServerSideChess12MovementTypeO", "_rawHashValue"]
+- ["15ServerSideChess12MovementTypeO", "deinit"]
+- ["15ServerSideChess12MovementTypeO", "hash"]
+- ["15ServerSideChess12MovementTypeO", "hashValue"]
+- ["15ServerSideChess12MovementTypeO", "hop"]
+- ["15ServerSideChess12MovementTypeO", "slide"]
+- ["15ServerSideChess12MovementTypeO", "slideFrom"]
+- ["15ServerSideChess12MovementTypeO", "step"]
+- ["15ServerSideChess9RankIndexO", "deinit"]
+depends-nominal:
+- "SQ"
+- "15ServerSideChess9FileIndexO"
+- "SH"
+- !private "s6HasherV"
+- "15ServerSideChess12MovementTypeO"
+- "15ServerSideChess9RankIndexO"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "b38d45c490ef1a657f1bd5f504e31efc"

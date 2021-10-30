@@ -1,0 +1,27 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EligibleForPromotion"
+provides-nominal:
+- "15ServerSideChess20EligibleForPromotionO"
+provides-member:
+- ["15ServerSideChess20EligibleForPromotionO", ""]
+depends-top-level:
+- "EligibleForPromotion"
+- "Piece"
+- "RankIndex"
+depends-member:
+- ["15ServerSideChess20EligibleForPromotionO", "Piece"]
+- ["15ServerSideChess20EligibleForPromotionO", "RankIndex"]
+- ["15ServerSideChess20EligibleForPromotionO", "no"]
+- ["15ServerSideChess20EligibleForPromotionO", "yes"]
+depends-nominal:
+- "15ServerSideChess20EligibleForPromotionO"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "89297791d7da8afee4efd4d3f688c919"

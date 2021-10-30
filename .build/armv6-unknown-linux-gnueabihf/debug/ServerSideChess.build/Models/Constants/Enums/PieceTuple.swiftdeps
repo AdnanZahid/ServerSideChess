@@ -1,0 +1,232 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PieceTuple"
+- "PieceTuples"
+provides-nominal:
+- "15ServerSideChess10PieceTupleV"
+- "15ServerSideChess11PieceTuplesO"
+provides-member:
+- ["15ServerSideChess10PieceTupleV", ""]
+- ["15ServerSideChess11PieceTuplesO", ""]
+depends-top-level:
+- "Bool"
+- "BooleanLiteralType"
+- "Color"
+- "Constants"
+- "EligibleForPromotion"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "MovementDirection"
+- "MovementStrategy"
+- "MovementType"
+- "PieceTuple"
+- "PieceTuples"
+- "String"
+- "StringLiteralType"
+- "UnicodeScalarType"
+depends-member:
+- ["15ServerSideChess5ColorO", "black"]
+- ["15ServerSideChess5ColorO", "white"]
+- ["15ServerSideChess9ConstantsO", "Values"]
+- ["s28CustomDebugStringConvertibleP", "_2"]
+- ["s28CustomDebugStringConvertibleP", "_7"]
+- ["s28CustomDebugStringConvertibleP", "_A"]
+- ["s28CustomDebugStringConvertibleP", "_H"]
+- ["s17CustomReflectableP", "_2"]
+- ["s17CustomReflectableP", "_7"]
+- ["s17CustomReflectableP", "_A"]
+- ["s17CustomReflectableP", "_H"]
+- ["Se", "_2"]
+- ["Se", "_7"]
+- ["Se", "_A"]
+- ["Se", "_H"]
+- ["15ServerSideChess20EligibleForPromotionO", "no"]
+- ["15ServerSideChess20EligibleForPromotionO", "yes"]
+- ["SE", "_2"]
+- ["SE", "_7"]
+- ["SE", "_A"]
+- ["SE", "_H"]
+- ["SQ", "_1"]
+- ["SQ", "_2"]
+- ["SQ", "_7"]
+- ["SQ", "_8"]
+- ["SQ", "_A"]
+- ["SQ", "_H"]
+- ["SQ", "any"]
+- ["SQ", "black"]
+- ["SQ", "blackBishop"]
+- ["SQ", "blackKnight"]
+- ["SQ", "blackQueen"]
+- ["SQ", "blackRook"]
+- ["SQ", "diagonal"]
+- ["SQ", "forward"]
+- ["SQ", "hop"]
+- ["SQ", "lShaped"]
+- ["SQ", "slide"]
+- ["SQ", "slideFrom"]
+- ["SQ", "step"]
+- ["SQ", "straight"]
+- ["SQ", "white"]
+- ["SQ", "whiteBishop"]
+- ["SQ", "whiteKnight"]
+- ["SQ", "whiteQueen"]
+- ["SQ", "whiteRook"]
+- ["s23ExpressibleByNilLiteralP", "_2"]
+- ["s23ExpressibleByNilLiteralP", "_7"]
+- ["s23ExpressibleByNilLiteralP", "_A"]
+- ["s23ExpressibleByNilLiteralP", "_H"]
+- ["15ServerSideChess9FileIndexO", "_A"]
+- ["15ServerSideChess9FileIndexO", "_H"]
+- ["SH", "_1"]
+- ["SH", "_2"]
+- ["SH", "_7"]
+- ["SH", "_8"]
+- ["SH", "_A"]
+- ["SH", "_H"]
+- ["SH", "any"]
+- ["SH", "black"]
+- ["SH", "blackBishop"]
+- ["SH", "blackKnight"]
+- ["SH", "blackQueen"]
+- ["SH", "blackRook"]
+- ["SH", "diagonal"]
+- ["SH", "forward"]
+- ["SH", "hop"]
+- ["SH", "lShaped"]
+- ["SH", "slide"]
+- ["SH", "slideFrom"]
+- ["SH", "step"]
+- ["SH", "straight"]
+- ["SH", "white"]
+- ["SH", "whiteBishop"]
+- ["SH", "whiteKnight"]
+- ["SH", "whiteQueen"]
+- ["SH", "whiteRook"]
+- ["15ServerSideChess17MovementDirectionO", "any"]
+- ["15ServerSideChess17MovementDirectionO", "forward"]
+- ["15ServerSideChess16MovementStrategyO", "diagonal"]
+- ["15ServerSideChess16MovementStrategyO", "lShaped"]
+- ["15ServerSideChess16MovementStrategyO", "straight"]
+- ["15ServerSideChess12MovementTypeO", "hop"]
+- ["15ServerSideChess12MovementTypeO", "slide"]
+- ["15ServerSideChess12MovementTypeO", "slideFrom"]
+- ["15ServerSideChess12MovementTypeO", "step"]
+- ["Sq", "_2"]
+- ["Sq", "_7"]
+- ["Sq", "_A"]
+- ["Sq", "_H"]
+- ["15ServerSideChess5PieceO", "blackBishop"]
+- ["15ServerSideChess5PieceO", "blackKnight"]
+- ["15ServerSideChess5PieceO", "blackQueen"]
+- ["15ServerSideChess5PieceO", "blackRook"]
+- ["15ServerSideChess5PieceO", "whiteBishop"]
+- ["15ServerSideChess5PieceO", "whiteKnight"]
+- ["15ServerSideChess5PieceO", "whiteQueen"]
+- ["15ServerSideChess5PieceO", "whiteRook"]
+- ["15ServerSideChess10PieceTupleV", "Bool"]
+- ["15ServerSideChess10PieceTupleV", "Color"]
+- ["15ServerSideChess10PieceTupleV", "EligibleForPromotion"]
+- ["15ServerSideChess10PieceTupleV", "Int"]
+- ["15ServerSideChess10PieceTupleV", "MovementDirection"]
+- ["15ServerSideChess10PieceTupleV", "MovementStrategy"]
+- ["15ServerSideChess10PieceTupleV", "MovementType"]
+- ["15ServerSideChess10PieceTupleV", "String"]
+- ["15ServerSideChess10PieceTupleV", "allowedToBeCaptured"]
+- ["15ServerSideChess10PieceTupleV", "captureStrategies"]
+- ["15ServerSideChess10PieceTupleV", "color"]
+- ["15ServerSideChess10PieceTupleV", "eligibleForPromotion"]
+- ["15ServerSideChess10PieceTupleV", "init"]
+- ["15ServerSideChess10PieceTupleV", "movementDirection"]
+- ["15ServerSideChess10PieceTupleV", "movementStrategies"]
+- ["15ServerSideChess10PieceTupleV", "movementTypes"]
+- ["15ServerSideChess10PieceTupleV", "symbol"]
+- ["15ServerSideChess10PieceTupleV", "value"]
+- ["15ServerSideChess11PieceTuplesO", "Constants"]
+- ["15ServerSideChess11PieceTuplesO", "PieceConstants"]
+- ["15ServerSideChess11PieceTuplesO", "PieceTuple"]
+- ["15ServerSideChess11PieceTuplesO", "blackBishop"]
+- ["15ServerSideChess11PieceTuplesO", "blackKing"]
+- ["15ServerSideChess11PieceTuplesO", "blackKnight"]
+- ["15ServerSideChess11PieceTuplesO", "blackPawn"]
+- ["15ServerSideChess11PieceTuplesO", "blackQueen"]
+- ["15ServerSideChess11PieceTuplesO", "blackRook"]
+- ["15ServerSideChess11PieceTuplesO", "whiteBishop"]
+- ["15ServerSideChess11PieceTuplesO", "whiteKing"]
+- ["15ServerSideChess11PieceTuplesO", "whiteKnight"]
+- ["15ServerSideChess11PieceTuplesO", "whitePawn"]
+- ["15ServerSideChess11PieceTuplesO", "whiteQueen"]
+- ["15ServerSideChess11PieceTuplesO", "whiteRook"]
+- ["15ServerSideChess9RankIndexO", "_1"]
+- ["15ServerSideChess9RankIndexO", "_2"]
+- ["15ServerSideChess9RankIndexO", "_7"]
+- ["15ServerSideChess9RankIndexO", "_8"]
+- ["SY", "_1"]
+- ["SY", "_2"]
+- ["SY", "_7"]
+- ["SY", "_8"]
+- ["SY", "_A"]
+- ["SY", "_H"]
+- ["SY", "any"]
+- ["SY", "black"]
+- ["SY", "blackBishop"]
+- ["SY", "blackKnight"]
+- ["SY", "blackQueen"]
+- ["SY", "blackRook"]
+- ["SY", "diagonal"]
+- ["SY", "forward"]
+- ["SY", "lShaped"]
+- ["SY", "straight"]
+- ["SY", "white"]
+- ["SY", "whiteBishop"]
+- ["SY", "whiteKnight"]
+- ["SY", "whiteQueen"]
+- ["SY", "whiteRook"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackBishop"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackKing"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackKnight"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackPawn"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackQueen"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "blackRook"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteBishop"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteKing"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteKnight"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whitePawn"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteQueen"]
+- ["15ServerSideChess9ConstantsO6ValuesO", "whiteRook"]
+- ["s12_UnwrappableP", "_2"]
+- ["s12_UnwrappableP", "_7"]
+- ["s12_UnwrappableP", "_A"]
+- ["s12_UnwrappableP", "_H"]
+depends-nominal:
+- "15ServerSideChess5ColorO"
+- "15ServerSideChess9ConstantsO"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "Se"
+- "15ServerSideChess20EligibleForPromotionO"
+- "SE"
+- "SQ"
+- "s23ExpressibleByNilLiteralP"
+- "15ServerSideChess9FileIndexO"
+- "SH"
+- "15ServerSideChess17MovementDirectionO"
+- "15ServerSideChess16MovementStrategyO"
+- "15ServerSideChess12MovementTypeO"
+- "Sq"
+- "15ServerSideChess5PieceO"
+- "15ServerSideChess10PieceTupleV"
+- "15ServerSideChess11PieceTuplesO"
+- "15ServerSideChess9RankIndexO"
+- "SY"
+- "15ServerSideChess9ConstantsO6ValuesO"
+- "s12_UnwrappableP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "c709e65197d425a73bd478b93c8e937b"

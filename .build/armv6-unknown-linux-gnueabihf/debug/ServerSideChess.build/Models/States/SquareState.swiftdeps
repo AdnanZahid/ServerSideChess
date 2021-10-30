@@ -1,0 +1,146 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SquareState"
+- "=="
+- "+"
+- "-"
+provides-nominal:
+- "15ServerSideChess11SquareStateV"
+provides-member:
+- ["15ServerSideChess11SquareStateV", ""]
+depends-top-level:
+- !private "&&"
+- !private "*"
+- "+"
+- "-"
+- "=="
+- "AdvancementState"
+- "Bool"
+- "CustomDebugStringConvertible"
+- "Equatable"
+- "FileIndex"
+- !private "FloatLiteralType"
+- "Hashable"
+- "Int"
+- !private "IntegerLiteralType"
+- "Piece"
+- "RankIndex"
+- "Self"
+- "SquareState"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- !private ["15ServerSideChess16AdvancementStateV", "deinit"]
+- !private ["15ServerSideChess16AdvancementStateV", "fileAdvancement"]
+- !private ["15ServerSideChess16AdvancementStateV", "init"]
+- !private ["15ServerSideChess16AdvancementStateV", "rankAdvancement"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- !private ["s28CustomDebugStringConvertibleP", "AdvancementState"]
+- ["s28CustomDebugStringConvertibleP", "Self"]
+- !private ["s28CustomDebugStringConvertibleP", "SquareState"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "fileIndex"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "rankIndex"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["Se", "fileAdvancement"]
+- !private ["Se", "init"]
+- !private ["Se", "rankAdvancement"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "fileAdvancement"]
+- !private ["SE", "init"]
+- !private ["SE", "rankAdvancement"]
+- ["SQ", "=="]
+- !private ["SQ", "AdvancementState"]
+- ["SQ", "Self"]
+- !private ["SQ", "SquareState"]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- !private ["SQ", "fileAdvancement"]
+- !private ["SQ", "fileIndex"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "init"]
+- !private ["SQ", "rankAdvancement"]
+- !private ["SQ", "rankIndex"]
+- !private ["SQ", "rawValue"]
+- ["15ServerSideChess9FileIndexO", "deinit"]
+- !private ["15ServerSideChess9FileIndexO", "rawValue"]
+- ["SH", "=="]
+- !private ["SH", "AdvancementState"]
+- ["SH", "Self"]
+- !private ["SH", "SquareState"]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- !private ["SH", "fileAdvancement"]
+- !private ["SH", "fileIndex"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "init"]
+- !private ["SH", "rankAdvancement"]
+- !private ["SH", "rankIndex"]
+- !private ["SH", "rawValue"]
+- !private ["s6HasherV", "combine"]
+- ["15ServerSideChess5PieceO", "deinit"]
+- ["15ServerSideChess9RankIndexO", "deinit"]
+- !private ["15ServerSideChess9RankIndexO", "rawValue"]
+- !private ["SY", "rawValue"]
+- ["15ServerSideChess11SquareStateV", "+"]
+- ["15ServerSideChess11SquareStateV", "-"]
+- ["15ServerSideChess11SquareStateV", "=="]
+- ["15ServerSideChess11SquareStateV", "AdvancementState"]
+- ["15ServerSideChess11SquareStateV", "Bool"]
+- ["15ServerSideChess11SquareStateV", "FileIndex"]
+- ["15ServerSideChess11SquareStateV", "Int"]
+- ["15ServerSideChess11SquareStateV", "Piece"]
+- ["15ServerSideChess11SquareStateV", "RankIndex"]
+- ["15ServerSideChess11SquareStateV", "Self"]
+- ["15ServerSideChess11SquareStateV", "SquareState"]
+- ["15ServerSideChess11SquareStateV", "String"]
+- ["15ServerSideChess11SquareStateV", "_rawHashValue"]
+- ["15ServerSideChess11SquareStateV", "debugDescription"]
+- ["15ServerSideChess11SquareStateV", "deinit"]
+- ["15ServerSideChess11SquareStateV", "fileIndex"]
+- ["15ServerSideChess11SquareStateV", "hash"]
+- ["15ServerSideChess11SquareStateV", "hashValue"]
+- ["15ServerSideChess11SquareStateV", "init"]
+- ["15ServerSideChess11SquareStateV", "piece"]
+- ["15ServerSideChess11SquareStateV", "rankIndex"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+depends-nominal:
+- !private "15ServerSideChess16AdvancementStateV"
+- "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SE"
+- "SQ"
+- "15ServerSideChess9FileIndexO"
+- "SH"
+- !private "s6HasherV"
+- "15ServerSideChess5PieceO"
+- "15ServerSideChess9RankIndexO"
+- !private "SY"
+- "15ServerSideChess11SquareStateV"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "d43e51ca687526338fbbfb69bfb4b7c1"

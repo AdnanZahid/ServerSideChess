@@ -1,0 +1,47 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PairState"
+provides-nominal:
+- "15ServerSideChess9PairStateV"
+provides-member:
+- ["15ServerSideChess9PairStateV", ""]
+depends-top-level:
+- "=="
+- !private "BooleanLiteralType"
+- "Hashable"
+- "PairState"
+depends-member:
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["s6HasherV", "combine"]
+- ["15ServerSideChess9PairStateV", "=="]
+- ["15ServerSideChess9PairStateV", "__derived_struct_equals"]
+- ["15ServerSideChess9PairStateV", "_rawHashValue"]
+- ["15ServerSideChess9PairStateV", "deinit"]
+- ["15ServerSideChess9PairStateV", "first"]
+- ["15ServerSideChess9PairStateV", "hash"]
+- ["15ServerSideChess9PairStateV", "hashValue"]
+- ["15ServerSideChess9PairStateV", "init"]
+- ["15ServerSideChess9PairStateV", "second"]
+depends-nominal:
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- "15ServerSideChess9PairStateV"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "733c34ad305789860aa1dcc4ff444239"

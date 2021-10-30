@@ -1,0 +1,140 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Piece"
+provides-nominal:
+- "15ServerSideChess5PieceO"
+provides-member:
+- ["15ServerSideChess5PieceO", ""]
+depends-top-level:
+- "=="
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Piece"
+- "PieceTuple"
+- !private "PieceTuples"
+- "RawRepresentable"
+depends-member:
+- ["SQ", "=="]
+- !private ["SQ", "PieceTuples"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "blackBishop"]
+- ["SQ", "blackKing"]
+- ["SQ", "blackKnight"]
+- ["SQ", "blackPawn"]
+- ["SQ", "blackQueen"]
+- ["SQ", "blackRook"]
+- !private ["SQ", "getPieceTuple"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "rawValue"]
+- ["SQ", "whiteBishop"]
+- ["SQ", "whiteKing"]
+- ["SQ", "whiteKnight"]
+- ["SQ", "whitePawn"]
+- ["SQ", "whiteQueen"]
+- ["SQ", "whiteRook"]
+- ["SH", "=="]
+- !private ["SH", "PieceTuples"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- ["SH", "blackBishop"]
+- ["SH", "blackKing"]
+- ["SH", "blackKnight"]
+- ["SH", "blackPawn"]
+- ["SH", "blackQueen"]
+- ["SH", "blackRook"]
+- !private ["SH", "getPieceTuple"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "rawValue"]
+- ["SH", "whiteBishop"]
+- ["SH", "whiteKing"]
+- ["SH", "whiteKnight"]
+- ["SH", "whitePawn"]
+- ["SH", "whiteQueen"]
+- ["SH", "whiteRook"]
+- !private ["s6HasherV", "combine"]
+- ["15ServerSideChess5PieceO", "=="]
+- ["15ServerSideChess5PieceO", "Piece"]
+- ["15ServerSideChess5PieceO", "PieceTuple"]
+- !private ["15ServerSideChess5PieceO", "PieceTuples"]
+- ["15ServerSideChess5PieceO", "RawValue"]
+- ["15ServerSideChess5PieceO", "_Default_RawValue"]
+- ["15ServerSideChess5PieceO", "__derived_enum_equals"]
+- ["15ServerSideChess5PieceO", "_rawHashValue"]
+- ["15ServerSideChess5PieceO", "blackBishop"]
+- ["15ServerSideChess5PieceO", "blackKing"]
+- ["15ServerSideChess5PieceO", "blackKnight"]
+- ["15ServerSideChess5PieceO", "blackPawn"]
+- ["15ServerSideChess5PieceO", "blackQueen"]
+- ["15ServerSideChess5PieceO", "blackRook"]
+- ["15ServerSideChess5PieceO", "deinit"]
+- ["15ServerSideChess5PieceO", "getPieceTuple"]
+- ["15ServerSideChess5PieceO", "hash"]
+- ["15ServerSideChess5PieceO", "hashValue"]
+- ["15ServerSideChess5PieceO", "init"]
+- ["15ServerSideChess5PieceO", "rawValue"]
+- ["15ServerSideChess5PieceO", "whiteBishop"]
+- ["15ServerSideChess5PieceO", "whiteKing"]
+- ["15ServerSideChess5PieceO", "whiteKnight"]
+- ["15ServerSideChess5PieceO", "whitePawn"]
+- ["15ServerSideChess5PieceO", "whiteQueen"]
+- ["15ServerSideChess5PieceO", "whiteRook"]
+- !private ["15ServerSideChess11PieceTuplesO", "blackBishop"]
+- !private ["15ServerSideChess11PieceTuplesO", "blackKing"]
+- !private ["15ServerSideChess11PieceTuplesO", "blackKnight"]
+- !private ["15ServerSideChess11PieceTuplesO", "blackPawn"]
+- !private ["15ServerSideChess11PieceTuplesO", "blackQueen"]
+- !private ["15ServerSideChess11PieceTuplesO", "blackRook"]
+- !private ["15ServerSideChess11PieceTuplesO", "whiteBishop"]
+- !private ["15ServerSideChess11PieceTuplesO", "whiteKing"]
+- !private ["15ServerSideChess11PieceTuplesO", "whiteKnight"]
+- !private ["15ServerSideChess11PieceTuplesO", "whitePawn"]
+- !private ["15ServerSideChess11PieceTuplesO", "whiteQueen"]
+- !private ["15ServerSideChess11PieceTuplesO", "whiteRook"]
+- ["SY", "=="]
+- !private ["SY", "PieceTuples"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- ["SY", "blackBishop"]
+- ["SY", "blackKing"]
+- ["SY", "blackKnight"]
+- ["SY", "blackPawn"]
+- ["SY", "blackQueen"]
+- ["SY", "blackRook"]
+- !private ["SY", "getPieceTuple"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- ["SY", "whiteBishop"]
+- ["SY", "whiteKing"]
+- ["SY", "whiteKnight"]
+- ["SY", "whitePawn"]
+- ["SY", "whiteQueen"]
+- ["SY", "whiteRook"]
+depends-nominal:
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- "15ServerSideChess5PieceO"
+- !private "15ServerSideChess11PieceTuplesO"
+- "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "661a62805bf5c38d925a472edcd6c02b"

@@ -1,0 +1,62 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PlayerState"
+provides-nominal:
+- "15ServerSideChess11PlayerStateV"
+provides-member:
+- ["15ServerSideChess11PlayerStateV", ""]
+depends-top-level:
+- "=="
+- "Bool"
+- !private "BooleanLiteralType"
+- "Color"
+- "Hashable"
+- "Int"
+- "PlayerState"
+depends-member:
+- ["15ServerSideChess5ColorO", "deinit"]
+- !private ["15ServerSideChess5ColorO", "rawValue"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "color"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "rawValue"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "color"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "rawValue"]
+- !private ["s6HasherV", "combine"]
+- ["15ServerSideChess11PlayerStateV", "=="]
+- ["15ServerSideChess11PlayerStateV", "Bool"]
+- ["15ServerSideChess11PlayerStateV", "Color"]
+- ["15ServerSideChess11PlayerStateV", "Int"]
+- ["15ServerSideChess11PlayerStateV", "__derived_struct_equals"]
+- ["15ServerSideChess11PlayerStateV", "_rawHashValue"]
+- ["15ServerSideChess11PlayerStateV", "color"]
+- ["15ServerSideChess11PlayerStateV", "deinit"]
+- ["15ServerSideChess11PlayerStateV", "hash"]
+- ["15ServerSideChess11PlayerStateV", "hashValue"]
+- ["15ServerSideChess11PlayerStateV", "init"]
+- ["15ServerSideChess11PlayerStateV", "isAI"]
+- !private ["SY", "rawValue"]
+depends-nominal:
+- "15ServerSideChess5ColorO"
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- "15ServerSideChess11PlayerStateV"
+- !private "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "b5bc5d437673f5202fd58495a0f35db1"

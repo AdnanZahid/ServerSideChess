@@ -1,0 +1,204 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MovementTypeHandler"
+provides-nominal:
+- "15ServerSideChess19MovementTypeHandlerC"
+provides-member:
+- ["15ServerSideChess19MovementTypeHandlerC", ""]
+- ["15ServerSideChess19MovementTypeHandlerC", "isValid"]
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "+"
+- !private "-"
+- !private "/"
+- !private "=="
+- "AdvancementState"
+- "AssignmentPrecedence"
+- "BoardState"
+- "Bool"
+- "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "MoveState"
+- "MovementType"
+- "MovementTypeHandler"
+- "SquareState"
+- "TernaryPrecedence"
+- !private "abs"
+- !private "||"
+depends-member:
+- !private ["15ServerSideChess16AdvancementStateV", "deinit"]
+- !private ["15ServerSideChess16AdvancementStateV", "fileAdvancement"]
+- !private ["15ServerSideChess16AdvancementStateV", "init"]
+- !private ["15ServerSideChess16AdvancementStateV", "rankAdvancement"]
+- !private ["Sa", "first"]
+- !private ["Sa", "subscript"]
+- !private ["s10ArraySliceV", "subscript"]
+- !private ["SK", "first"]
+- !private ["SK", "subscript"]
+- !private ["15ServerSideChess10BoardStateV", "squares"]
+- !private ["Sl", "first"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "fileIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "fromSquare"]
+- !private ["s28CustomDebugStringConvertibleP", "piece"]
+- !private ["s28CustomDebugStringConvertibleP", "rankIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "squares"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "toSquare"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "fileAdvancement"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["Se", "rankAdvancement"]
+- !private ["Se", "subscript"]
+- !private ["SE", "fileAdvancement"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SE", "rankAdvancement"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "fileAdvancement"]
+- !private ["SQ", "fileIndex"]
+- !private ["SQ", "first"]
+- !private ["SQ", "fromSquare"]
+- !private ["SQ", "hop"]
+- !private ["SQ", "init"]
+- !private ["SQ", "piece"]
+- !private ["SQ", "rankAdvancement"]
+- !private ["SQ", "rankIndex"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "slide"]
+- !private ["SQ", "slideFrom"]
+- !private ["SQ", "squares"]
+- !private ["SQ", "step"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "toSquare"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["15ServerSideChess9FileIndexO", "deinit"]
+- !private ["15ServerSideChess9FileIndexO", "rawValue"]
+- !private ["SH", "fileAdvancement"]
+- !private ["SH", "fileIndex"]
+- !private ["SH", "first"]
+- !private ["SH", "fromSquare"]
+- !private ["SH", "hop"]
+- !private ["SH", "init"]
+- !private ["SH", "piece"]
+- !private ["SH", "rankAdvancement"]
+- !private ["SH", "rankIndex"]
+- !private ["SH", "rawValue"]
+- !private ["SH", "slide"]
+- !private ["SH", "slideFrom"]
+- !private ["SH", "squares"]
+- !private ["SH", "step"]
+- !private ["SH", "subscript"]
+- !private ["SH", "toSquare"]
+- !private ["15ServerSideChess9MoveStateV", "fromSquare"]
+- !private ["15ServerSideChess9MoveStateV", "toSquare"]
+- !private ["15ServerSideChess12MovementTypeO", "deinit"]
+- !private ["15ServerSideChess12MovementTypeO", "hop"]
+- !private ["15ServerSideChess12MovementTypeO", "slide"]
+- !private ["15ServerSideChess12MovementTypeO", "slideFrom"]
+- !private ["15ServerSideChess12MovementTypeO", "step"]
+- ["15ServerSideChess19MovementTypeHandlerC", "AdvancementState"]
+- ["15ServerSideChess19MovementTypeHandlerC", "BoardState"]
+- ["15ServerSideChess19MovementTypeHandlerC", "Bool"]
+- ["15ServerSideChess19MovementTypeHandlerC", "MoveState"]
+- ["15ServerSideChess19MovementTypeHandlerC", "MovementType"]
+- ["15ServerSideChess19MovementTypeHandlerC", "SquareState"]
+- !private ["15ServerSideChess19MovementTypeHandlerC", "abs"]
+- !private ["15ServerSideChess19MovementTypeHandlerC", "getAdvancement"]
+- !private ["15ServerSideChess19MovementTypeHandlerC", "getSingleAdvancement"]
+- ["15ServerSideChess19MovementTypeHandlerC", "init"]
+- !private ["15ServerSideChess19MovementTypeHandlerC", "isMove"]
+- !private ["15ServerSideChess19MovementTypeHandlerC", "isOneStepAdvanced"]
+- !private ["15ServerSideChess19MovementTypeHandlerC", "isPathClear"]
+- !private ["15ServerSideChess19MovementTypeHandlerC", "isSquareEmpty"]
+- ["15ServerSideChess19MovementTypeHandlerC", "isValid"]
+- !private ["SM", "first"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["15ServerSideChess5PieceO", "deinit"]
+- !private ["Sk", "first"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "first"]
+- !private ["Sm", "subscript"]
+- !private ["15ServerSideChess9RankIndexO", "deinit"]
+- !private ["15ServerSideChess9RankIndexO", "rawValue"]
+- !private ["SY", "rawValue"]
+- !private ["ST", "first"]
+- !private ["ST", "subscript"]
+- !private ["15ServerSideChess11SquareStateV", "deinit"]
+- !private ["15ServerSideChess11SquareStateV", "fileIndex"]
+- !private ["15ServerSideChess11SquareStateV", "piece"]
+- !private ["15ServerSideChess11SquareStateV", "rankIndex"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["10Foundation13_CFBridgeableP", "first"]
+- !private ["10Foundation13_CFBridgeableP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation13_NSBridgeableP", "first"]
+- !private ["10Foundation13_NSBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "15ServerSideChess16AdvancementStateV"
+- !private "Sa"
+- !private "s10ArraySliceV"
+- !private "SK"
+- !private "15ServerSideChess10BoardStateV"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "15ServerSideChess9FileIndexO"
+- !private "SH"
+- !private "15ServerSideChess9MoveStateV"
+- !private "15ServerSideChess12MovementTypeO"
+- "15ServerSideChess19MovementTypeHandlerC"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "15ServerSideChess5PieceO"
+- !private "Sk"
+- !private "Sm"
+- !private "15ServerSideChess9RankIndexO"
+- !private "SY"
+- !private "ST"
+- !private "15ServerSideChess11SquareStateV"
+- !private "s14_ArrayProtocolP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "b34799090b054ff953126fa736acc989"

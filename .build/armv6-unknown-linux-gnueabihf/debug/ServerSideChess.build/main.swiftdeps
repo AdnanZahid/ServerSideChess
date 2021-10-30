@@ -1,0 +1,31 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "controller"
+provides-nominal:
+provides-member:
+depends-top-level:
+- "CLIView"
+- "Controller"
+- "controller"
+depends-member:
+- ["15ServerSideChess7CLIViewC", "deinit"]
+- ["15ServerSideChess7CLIViewC", "init"]
+- ["15ServerSideChess10ControllerC", "init"]
+- ["15ServerSideChess12InputHandlerP", "init"]
+- ["15ServerSideChess20InputHandlerDelegateP", "init"]
+- ["15ServerSideChess13OutputHandlerP", "init"]
+depends-nominal:
+- "15ServerSideChess7CLIViewC"
+- "15ServerSideChess10ControllerC"
+- "15ServerSideChess12InputHandlerP"
+- "15ServerSideChess20InputHandlerDelegateP"
+- "15ServerSideChess13OutputHandlerP"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "755e67b1f02a6b863bc5444bdf089d36"

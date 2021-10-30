@@ -1,0 +1,68 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GameState"
+provides-nominal:
+- "15ServerSideChess9GameStateV"
+provides-member:
+- ["15ServerSideChess9GameStateV", ""]
+depends-top-level:
+- !private "+"
+- "=="
+- "BoardState"
+- !private "BooleanLiteralType"
+- "GameState"
+- "Hashable"
+- "Int"
+- "PlayerState"
+depends-member:
+- ["15ServerSideChess10BoardStateV", "deinit"]
+- !private ["15ServerSideChess10BoardStateV", "hashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "boardState"]
+- !private ["SQ", "currentPlayer"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["15ServerSideChess9GameStateV", "=="]
+- ["15ServerSideChess9GameStateV", "BoardState"]
+- ["15ServerSideChess9GameStateV", "Int"]
+- ["15ServerSideChess9GameStateV", "PlayerState"]
+- ["15ServerSideChess9GameStateV", "__derived_struct_equals"]
+- ["15ServerSideChess9GameStateV", "_rawHashValue"]
+- ["15ServerSideChess9GameStateV", "blackPlayer"]
+- ["15ServerSideChess9GameStateV", "boardState"]
+- ["15ServerSideChess9GameStateV", "currentPlayer"]
+- ["15ServerSideChess9GameStateV", "deinit"]
+- ["15ServerSideChess9GameStateV", "hash"]
+- ["15ServerSideChess9GameStateV", "hashValue"]
+- ["15ServerSideChess9GameStateV", "init"]
+- ["15ServerSideChess9GameStateV", "whitePlayer"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "boardState"]
+- !private ["SH", "currentPlayer"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["s6HasherV", "combine"]
+- ["15ServerSideChess11PlayerStateV", "deinit"]
+- !private ["15ServerSideChess11PlayerStateV", "hashValue"]
+depends-nominal:
+- "15ServerSideChess10BoardStateV"
+- !private "s28CustomDebugStringConvertibleP"
+- "SQ"
+- "15ServerSideChess9GameStateV"
+- "SH"
+- !private "s6HasherV"
+- "15ServerSideChess11PlayerStateV"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/armv6/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Foundation.swiftmodule"
+- "/usr/lib/swift/linux/armv6/Swift.swiftmodule"
+- "/usr/lib/swift/linux/armv6/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/linux/armv6/glibc.modulemap"
+interface-hash: "ce4f6dccb5845273f3b5d7085fe36534"
